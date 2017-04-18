@@ -1,0 +1,9 @@
+image: Visual Studio 2017
+
+#environment:
+#  JavaSdkDirectory: C:\Program Files (x86)\Java\jdk1.8.0
+
+build:
+  verbosity: normal
+
+test: off
